@@ -38,3 +38,7 @@ body {
 .button:active {
   border: 5px solid #ffd300;
 }
+
+.image-container{
+  width: 20px ;
+  height: 20px;
